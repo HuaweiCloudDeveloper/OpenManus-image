@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">OpenHands AI intelligent agent</h1>
+  <h1 align="center">OpenManus AI intelligent agent</h1>
   <p align="center">
     <strong>English</strong> | <a href="README_ZH.md">简体中文</a>
   </p>
